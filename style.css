@@ -1,0 +1,39 @@
+body {
+ background-image: url("grass.jpg");
+ background-color: #000000;
+ color: #FFFFFF;
+}
+
+div {
+  padding: 0px 25px 25px;
+  color: #FFFFFF
+  margin: auto;
+}
+
+.bg-image {
+  background-image: url("grass.jpg");
+  filter: blur(24px);
+  -webkit-filter: blur(24px);
+}
+
+li {
+	color: #FFFFFF
+}
+
+.navbar-nav li a {
+	color: #FFFFFF !important;
+}
+
+.nav-link {
+  color: #FFFFFF !important;
+}
+
+.navbar-brand {
+  color: #FFFFFF !important;
+}
+
+.navbar-toggler-icon {
+  color: #FFFFFF !important;
+}
+
+
